@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Julia Pinheiro
 
-- 🌱 Estudando C e C++
+- 🌱 Estudando ruby e java
 - 🤔 Procurando ajuda para novas oportunidades e desafios
 - 😄 Pronomes: ela/dela
 - ⚡ Me apaixonei por programação brincando com um editor de equação online LaTex
