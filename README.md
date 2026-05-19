@@ -109,6 +109,6 @@
 
 <br><br>
 
-<sub>✿ &nbsp; feito com lógica, café e um toque de LaTeX &nbsp; ✿</sub>
+<sub>✿ &nbsp; feito com lógica, chá e um toque de LaTeX &nbsp; ✿</sub>
 
 </div>
