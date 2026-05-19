@@ -2,6 +2,7 @@
 
 <h1>
   ˚ ༘♡ ⋆｡˚ &nbsp; Julia Pinheiro &nbsp; ˚｡⋆ ♡༘ ˚
+  <p></p>
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=800&color=C9A4C3&center=true&vCenter=true&width=550&lines=desenvolvedora+em+forma%C3%A7%C3%A3o;ela%2Fdela+%C2%B7+estudante+%C2%B7+curiosa" alt="Typing SVG" />
