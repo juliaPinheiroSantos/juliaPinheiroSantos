@@ -4,7 +4,7 @@
   ˚ ༘♡ ⋆｡˚ &nbsp; Julia Pinheiro &nbsp; ˚｡⋆ ♡༘ ˚
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=800&color=C9A4C3&center=true&vCenter=true&width=550&lines=desenvolvedora+em+formação+✿;apaixonada+por+lógica+e+elegância;ela%2Fdela+·+estudante+·+curiosa+⋆;começou+com+LaTeX+e+não+parou+mais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=800&color=C9A4C3&center=true&vCenter=true&width=550&lines=desenvolvedora+em+forma%C3%A7%C3%A3o;apaixonada+por+l%C3%B3gica+e+elegancia;ela%2Fdela+%C2%B7+estudante+%C2%B7+curiosa;come%C3%A7ou+com+LaTeX+e+nao+parou+mais" alt="Typing SVG" />
 
 </div>
 
@@ -47,8 +47,8 @@
 <div align="center">
 
 <a href="https://github.com/juliaPinheiroSantos">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=juliaPinheiroSantos&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&title_color=C9A4C3&icon_color=C9A4C3&text_color=D4C5D0&bg_color=1a141f" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaPinheiroSantos&theme=rose_pine&layout=compact&hide_border=true&title_color=C9A4C3&text_color=D4C5D0&bg_color=1a141f" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juliaPinheiroSantos&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&title_color=C9A4C3&icon_color=C9A4C3&text_color=D4C5D0&bg_color=1a141f" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliaPinheiroSantos&theme=rose_pine&layout=compact&hide_border=true&title_color=C9A4C3&text_color=D4C5D0&bg_color=1a141f" />
 </a>
 
 <br>
