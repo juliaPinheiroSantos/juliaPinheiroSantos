@@ -43,12 +43,11 @@
 ---
 
 ### 🌙 &nbsp; GitHub Stats
-
 <div align="center">
 
 <a href="https://github.com/juliaPinheiroSantos">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juliaPinheiroSantos&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&title_color=C9A4C3&icon_color=C9A4C3&text_color=D4C5D0&bg_color=1a141f" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliaPinheiroSantos&theme=rose_pine&layout=compact&hide_border=true&title_color=C9A4C3&text_color=D4C5D0&bg_color=1a141f" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliaPinheiroSantos&theme=rose_pine" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliaPinheiroSantos&theme=rose_pine" />
 </a>
 
 <br>
