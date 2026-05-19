@@ -4,7 +4,7 @@
   ˚ ༘♡ ⋆｡˚ &nbsp; Julia Pinheiro &nbsp; ˚｡⋆ ♡༘ ˚
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=800&color=C9A4C3&center=true&vCenter=true&width=550&lines=desenvolvedora+em+forma%C3%A7%C3%A3o;apaixonada+por+l%C3%B3gica+e+elegancia;ela%2Fdela+%C2%B7+estudante+%C2%B7+curiosa;come%C3%A7ou+com+LaTeX+e+nao+parou+mais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=800&color=C9A4C3&center=true&vCenter=true&width=550&lines=desenvolvedora+em+forma%C3%A7%C3%A3o;ela%2Fdela+%C2%B7+estudante+%C2%B7+curiosa" alt="Typing SVG" />
 
 </div>
 
