@@ -76,7 +76,7 @@
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </p>
-      <a href="https://github.com/juliaPinheiroSantos/NOME_DO_REPOSITORIO">→ ver repositório</a>
+      <a href="https://github.com/juliaPinheiroSantos/my-first-software">→ ver repositório</a>
     </td>
     <td width="50%" valign="top">
       <h4>🖥️ &nbsp; Simulador Von Neumann</h4>
@@ -90,12 +90,10 @@
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/Arquitetura-grey?style=flat-square&logo=buffer&logoColor=white" />
       </p>
-      <a href="https://github.com/juliaPinheiroSantos/NOME_DO_REPOSITORIO">→ ver repositório</a>
+      <a href="https://github.com/juliaPinheiroSantos/von-neumann-machine-simulator">→ ver repositório</a>
     </td>
   </tr>
 </table>
-
-> 💡 Substitua `NOME_DO_REPOSITORIO` nos links acima pelos nomes reais dos seus repositórios!
 
 ---
 
